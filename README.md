@@ -1,8 +1,8 @@
 ***
-[**Webpage**](http://conceptoriented.org) • [**LinkedIn**](http://de.linkedin.com/in/alexandrsavinov) • [**ResearchGate**](http://www.researchgate.net/profile/Alexandr_Savinov)
+• [**Webpage**](http://conceptoriented.org) • [**LinkedIn**](http://de.linkedin.com/in/alexandrsavinov) • [**ResearchGate**](http://www.researchgate.net/profile/Alexandr_Savinov) •
 ***
 <!--
-🐍 🐘
+🐍 🐘 ➤ •
 http://www.alanwood.net/unicode/miscellaneous-symbols-and-pictographs.html
 
 **asavinov/asavinov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
