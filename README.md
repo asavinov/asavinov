@@ -3,7 +3,14 @@
 <a href="http://www.researchgate.net/profile/Alexandr_Savinov"><img alt="ResearchGate" src="https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=ResearchGate&logoColor=white"></a>
 [**Webpage**](http://conceptoriented.org) 
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=asavinov&count_private=true&show_icons=true)](https://github.com/asavinov)
+[![GitHub asavinov](https://img.shields.io/github/followers/asavinov?label=follow&style=social)](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg)
+
+<a href="https://github.com/asavinov" target="_blank">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asavinov&theme=light&hide_langs_below=1" />
+</a>
+<a href="https://github.com/asavinov" target="_blank">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=asavinov&show_icons=true&theme=light&line_height=27" alt="GitHub Stats"/>
+</a>
 ***
 
 ## [Prosto Data Processing Toolkit: No join-groupby, No map-reduce](https://github.com/asavinov/prosto)
@@ -18,6 +25,10 @@
 ***
 
 <!--
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=asavinov&count_private=true&show_icons=true)](https://github.com/asavinov)
+
+
 🐍 🐘 ➤ • ► ◄
  http://www.alanwood.net/unicode/miscellaneous-symbols-and-pictographs.html
 
