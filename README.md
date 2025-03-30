@@ -1,5 +1,6 @@
 ***
 [![GitHub asavinov](https://img.shields.io/github/followers/asavinov?label=follow&style=social)](https://github.com/asavinov)
+<a href="https://twitter.com/asavinov"><img alt="X (formerly Twitter) Follow" src="https://img.shields.io/twitter/follow/:asavinov"></a>
 <a href="https://de.linkedin.com/in/alexandrsavinov"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-gray?style=for-the-badge&logo=linkedin"></a>
 <a href="http://www.researchgate.net/profile/Alexandr_Savinov"><img alt="ResearchGate" src="https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=ResearchGate&logoColor=white"></a>
 [**Webpage**](http://conceptoriented.org) 
@@ -20,6 +21,10 @@
 <a href="https://github.com/asavinov/prosto">
  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=asavinov&repo=prosto" />
 </a>
+
+<a href="https://twitter.com/asavinov"><img alt="X (formerly Twitter) Follow" src="https://img.shields.io/twitter/follow/:asavinov"></a>
+
+![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/:asavinov)
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=asavinov&count_private=true&show_icons=true)](https://github.com/asavinov)
 
